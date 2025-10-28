@@ -49,7 +49,7 @@ React + TypeScript + WebSocket + SCSS + Framer Motion.
 
 🌐 [LinkedIn](https://linkedin.com/in/jillian-frontend)  
 ✉️ [Email](mailto:jillian.dev@gmail.com)  
-🧠 [Portfolio Website](https://jillian.dev) *(optional)*  
+🧠 [Portfolio Website](https://jillian.dev)  
 
 ---
 
