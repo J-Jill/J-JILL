@@ -1,56 +1,21 @@
-# 👋 Hi, I’m Jillian
+# 👋 Hello, I'm Jillian Ramirez
 
-💻 **Frontend Developer | React • TypeScript • .NET | SCSS | WebSockets**  
-🌎 Based in Spain | Open to Remote Roles in 🇨🇦 Canada & Worldwide  
-⚡ Passionate about crafting performant, accessible, and elegant user interfaces.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tu-usuario-github&label=Profile%20views&color=0e75b6&style=flat" alt="tu-usuario-github" />
+</p>
 
----
+### 🚀 Mid-Level Frontend Engineer | React & TypeScript Specialist
+**Currently based in Spain | Moving to Toronto, Canada (Active Working Holiday Visa 🇨🇦)**
 
-## 🚀 About Me
-I’m a Frontend Developer with 3+ years of experience building scalable and maintainable web applications.  
-Currently focusing on **React ecosystems**, real-time interfaces, and **UI performance optimization**.  
+- [cite_start]🔭 I’m currently working on **Scalable Enterprise SPAs at Accenture**[cite: 7].
+- [cite_start]⚡ Optimized load times by **15%** and reduced UI defects by **20%**[cite: 10, 11].
+- [cite_start]🎓 Background in **Digital Interaction Design** — bridging the gap between UX and Engineering[cite: 20].
 
-I enjoy working on projects that combine **great UX** with **clean code architecture**.  
-Always learning, sharing, and contributing to web communities.
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[cite_start]![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [cite: 22]
 
----
-
-## 🧩 Featured Projects
-
-### [SmartTasks](https://github.com/jillian-frontend/SmartTasks)
-🗂️ A productivity dashboard inspired by Trello.  
-Built with React + TypeScript + Zustand + SCSS.
-
-> Focused on component architecture, state management and UI responsiveness.
-
-[🔗 Live Demo](#) • [📘 Repository](https://github.com/jillian-frontend/SmartTasks)
-
----
-
-### [TravelWise](https://github.com/jillian-frontend/TravelWise)
-🌍 Real-time travel destination explorer.  
-React + TypeScript + WebSocket + SCSS + Framer Motion.
-
-> Explore destinations with real-time updates, weather data, and images.
-
-[🔗 Live Demo](#) • [📘 Repository](https://github.com/jillian-frontend/TravelWise)
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** React • TypeScript • SCSS • Tailwind • Framer Motion  
-**Backend (basic):** Node.js • .NET  
-**Tools:** Git • Vite • WebSockets • AWS S3 • REST APIs  
-
----
-
-## 📫 Connect with Me
-
-🌐 [LinkedIn](https://linkedin.com/in/jillian-frontend)  
-✉️ [Email](mailto:jillian.dev@gmail.com)  
-🧠 [Portfolio Website](https://jillian.dev)  
-
----
-
-⭐ *Always open to collaborating on innovative frontend projects or sharing knowledge about UI engineering.*
+### 🧩 Featured Projects
+**[SmartTasks](link-repo)**: A Trello-inspired dashboard focused on complex state management.
+**[TravelWise](link-repo)**: Real-time explorer using WebSockets and Framer Motion.
