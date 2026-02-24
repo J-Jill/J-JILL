@@ -16,8 +16,11 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🧩 Featured Projects
-* **[WildSphere](https://wildsphere.netlify.app/)**: [Live Demo] 🌍 | [Repository](https://github.com/J-Jill/wildsphere)
-* *Interactive 3D globe visualizing iNaturalist biodiversity data using R3F and Framer Motion.*
+
+#### 🌍 [WildSphere](https://wildsphere.netlify.app/) | [Repository](https://github.com/J-Jill/wildsphere)
+* **High-performance 3D Biodiversity Visualizer** built with **React, Three.js (R3F), and TypeScript**.
+* Maps real-time data from the **iNaturalist API** onto a 3D globe using geographic-to-Cartesian conversion.
+* Optimized for 60 FPS using frame-loop animations and an **App Shell architecture** to decouple UI from the 3D render layer.
   
 ### Connect with Me
 [LinkedIn](https://linkedin.com/in/jillian-frontend-dev) | [Portfolio](https://jillianram-dev.com) | [Email](mailto:jillianswd@outlook.com)
