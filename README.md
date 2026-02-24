@@ -1,4 +1,4 @@
-# Hi, I'm Jillian Ramirez
+# Hi, I'm Jillian
 
 ### 🚀 Mid-Level Frontend Engineer | React & TypeScript Specialist
 **Toronto Bound (Active Working Holiday Visa 🇨🇦)**
@@ -16,8 +16,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🧩 Featured Projects
-* **[WildSphere](https://wildsphere.netlify.app/)**: 🌍 | (https://github.com/J-Jill/wildsphere)
-  *Interactive 3D globe visualizing iNaturalist biodiversity data using R3F and Framer Motion.*
+* **[WildSphere](https://wildsphere.netlify.app/)**: [Live Demo] 🌍 | [Repository](https://github.com/J-Jill/wildsphere)
+* *Interactive 3D globe visualizing iNaturalist biodiversity data using R3F and Framer Motion.*
   
 ### Connect with Me
 [LinkedIn](https://linkedin.com/in/jillian-frontend-dev) | [Portfolio](https://jillianram-dev.com) | [Email](mailto:jillianswd@outlook.com)
