@@ -9,7 +9,6 @@
 
 At **Accenture Spain** I've spent 3+ years shipping enterprise AI-powered applications — real-time chat interfaces over WebSockets, AI-driven document processing tools, and form automation workflows deployed to international clients. I've led feature delivery end-to-end, onboarded new team members, and recently contributed to AI agent architectures using SVF methodology.
 
-I build interfaces that think — shipping production-grade React and TypeScript at Accenture for 3+ years, with the design sensibility to make them work as well as they look.
 ---
 
 ### Featured project
