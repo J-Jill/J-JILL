@@ -1,7 +1,7 @@
 # Hi, I'm Jillian
 
-**Frontend Developer · React & TypeScript · AI-powered interfaces**  
-🍁 Relocating to Toronto — May 2026 · Valid Canadian Work Permit
+**Software Engineer · React & TypeScript · AI-powered interfaces**  
+🍁 Valid Canadian Work Permit
 
 ---
 
